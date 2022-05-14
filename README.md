@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inagib21
+- 👋 Hi, I’m Nagib Gonzalez
 - 👀 I’m interested in ... data science, ai, finance
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... 
