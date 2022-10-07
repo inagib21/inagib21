@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nagib Gonzalez
 - 👀 I’m interested in ... data science, ai, finance
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python Sql
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
