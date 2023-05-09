@@ -4,10 +4,6 @@ I'm a data scientist with experience in various domains such as real estate, mar
 
 ## Pinned Repositories
 
-### [Movie Data Analysis](https://github.com/inagib21/Movie-Data-Analysis)
-
-A project in collaboration with Microsoft to analyze box office films' ROI and profitability.
-
 ### [King County Analysis](https://github.com/inagib21/King-County-Analysis)
 
 An analysis of real estate data in King County, Washington to identify trends and patterns for investment decisions.
