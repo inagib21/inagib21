@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nagib Gonzalez, a# Welcome to my GitHub profile!
+- 👋 Hi, I’m Nagib Gonzalez! Welcome to my GitHub profile!
 
 I'm a data scientist with experience in various domains such as real estate, marketing, and social media sentiment analysis. Below are some of my top projects that showcase my skills.
 
