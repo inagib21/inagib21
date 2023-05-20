@@ -4,11 +4,11 @@ I'm a data scientist with experience in various domains such as real estate, mar
 
 ## Pinned Repositories
 
-### [King County Analysis](https://github.com/inagib21/King-County-Analysis)
+### [King County House Price Prediction](https://github.com/inagib21/King-County-Analysis)
 
 An analysis of real estate data in King County, Washington to identify trends and patterns for investment decisions.
 
-### [Loan Default Analysis](https://github.com/inagib21/LoanDefault)
+### [Predicting Loan Default Analysis](https://github.com/inagib21/LoanDefault)
 
 A binary classification project to identify factors that influence loan defaults and develop a marketing plan to minimize losses for banks.
 
