@@ -4,17 +4,22 @@ I'm a data scientist with experience in various domains such as real estate, mar
 
 ## Pinned Repositories
 
-### [King County House Price Prediction](https://github.com/inagib21/King-County-Analysis)
+[Building Permit Analysis](https://github.com/inagib21/BuildingPermitAnalysis)
+A comprehensive analysis of building permit data in New York City. This project utilized various time-series forecasting models to predict the growth of community boards across the five boroughs.
 
-An analysis of real estate data in King County, Washington to identify trends and patterns for investment decisions.
+### [Twitter Sentiment Analysis](https://github.com/inagib21/TweetSentiment)
+
+A project that involves a Twitter sentiment analysis for the SXSW Conference using natural language processing techniques.
+
 
 ### [Predicting Loan Default](https://github.com/inagib21/LoanDefault)
 
 A binary classification project to identify factors that influence loan defaults and develop a marketing plan to minimize losses for banks.
 
-### [Twitter Sentiment Analysis](https://github.com/inagib21/TweetSentiment)
+### [King County House Price Prediction](https://github.com/inagib21/King-County-Analysis)
 
-A project that involves a Twitter sentiment analysis for the SXSW Conference using natural language processing techniques.
+An analysis of real estate data in King County, Washington to identify trends and patterns for investment decisions.
+
 
 ## About Me
 
