@@ -4,7 +4,7 @@ I'm a data scientist with experience in various domains such as real estate, mar
 
 ## Pinned Repositories
 
-[Building Permit Analysis](https://github.com/inagib21/BuildingPermitAnalysis)
+### [Building Permit Analysis](https://github.com/inagib21/BuildingPermitAnalysis)
 A comprehensive analysis of building permit data in New York City. This project utilized various time-series forecasting models to predict the growth of community boards across the five boroughs.
 
 ### [Twitter Sentiment Analysis](https://github.com/inagib21/TweetSentiment)
