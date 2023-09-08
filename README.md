@@ -8,8 +8,14 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 - 🌐 **Full Stack Enthusiast:** I've also ventured into the world of full-stack development, expanding my skill set to create end-to-end solutions.
 - 🚀 **Problem Solver:** I enjoy finding innovative solutions to challenges and thrive on continuously learning and growing.
 
-## I work with
-(img)[https://camo.githubusercontent.com/ad41f76be08baee6637b456c9dc438ae81a57bdbd41773230975d670ac2589ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f747970657363726970742d2d76312e706e67]
+## I Work With
+![image](https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f)
+![image](https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe)
+![image](https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f) 
+![image](https://github.com/inagib21/inagib21/assets/45716414/69dae8e1-5766-4b1e-a5cb-f8bebdd05ee3)
+
+
+
 
 ## Contact Me
 
