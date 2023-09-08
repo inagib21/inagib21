@@ -9,7 +9,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 - 🚀 **Problem Solver:** I enjoy finding innovative solutions to challenges and thrive on continuously learning and growing.
 
 ## I work with
-https://camo.githubusercontent.com/ad41f76be08baee6637b456c9dc438ae81a57bdbd41773230975d670ac2589ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f747970657363726970742d2d76312e706e67
+(img)[https://camo.githubusercontent.com/ad41f76be08baee6637b456c9dc438ae81a57bdbd41773230975d670ac2589ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f747970657363726970742d2d76312e706e67]
 
 ## Contact Me
 
