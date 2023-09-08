@@ -25,7 +25,9 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <br>
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f9490169-1f79-4c02-9142-b330b3f3f9bd' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/48c8767f-67ad-43f8-b9cb-f91e19e6c3d9' width='50'><img src='https://camo.githubusercontent.com/66a4397710e8d702e8b3305954a204e4021ec035bb49148ee2dcfea8da8dd1fd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f3030303030302f706f73746772656573716c2e706e67' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/48c8767f-67ad-43f8-b9cb-f91e19e6c3d9' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/b3969378-24af-45ac-a7c9-3db1c6abb2c9' width='50'>
+
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/764a6e10-64d1-41fa-a748-d039ef920f01' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'>
