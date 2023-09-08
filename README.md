@@ -14,7 +14,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/641113b4-3744-497e-b918-2843c4b8a539' width='75'> 
 
-<br>![golang](https://github.com/inagib21/inagib21/assets/45716414/8fa408fe-df8e-427f-8872-6cc96551b328)
+<br>
 
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5c8a1e7a-7ac6-475f-9006-70954deb4ba1' width='50'>
