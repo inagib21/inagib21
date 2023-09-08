@@ -9,8 +9,10 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 - 🚀 **Problem Solver:** I enjoy finding innovative solutions to challenges and thrive on continuously learning and growing.
 
 ## I Work With
-<img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='25'>(https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f)
-![image](https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe)
+<img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
+
 ![image](https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f) 
 ![image](https://github.com/inagib21/inagib21/assets/45716414/69dae8e1-5766-4b1e-a5cb-f8bebdd05ee3)
 
