@@ -1,4 +1,4 @@
-![Go-Logo_LightBlue](https://github.com/inagib21/inagib21/assets/45716414/9b258656-0dc8-44ce-b50e-6bbbe8397eac)# 👋 Hi, I’m Nagib Gonzalez! Welcome to my GitHub profile!
+# 👋 Hi, I’m Nagib Gonzalez! Welcome to my GitHub profile!
 
 I'm a data scientist with a passion for leveraging data to drive insights and informed decision-making. With experience in various domains, including real estate, marketing, and social media sentiment analysis, I've had the opportunity to work on diverse projects that showcase my skills.
 
@@ -13,6 +13,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9e69a1c3-e27a-4197-8218-7b063f19b0c2' width='50'> 
+<img src='https://github.com/inagib21/inagib21/assets/45716414/9b258656-0dc8-44ce-b50e-6bbbe8397eac' width='50'>
 
 <br>
 				
