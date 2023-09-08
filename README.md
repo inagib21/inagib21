@@ -12,7 +12,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/ac1f1516-5934-46e4-ba7a-d328acb20037' width='75'> 
+<img src='https://github.com/inagib21/inagib21/assets/45716414/ac1f1516-5934-46e4-ba7a-d328acb20037' height='50' width='50'> 
 
 <br>
 
