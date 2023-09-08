@@ -12,7 +12,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
-<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F566%2F160%2Fpng-transparent-golang-hd-logo.png&tbnid=3VmtHrn_SfWBTM&vet=12ahUKEwjzrdC82JuBAxXrGFkFHcvSBpkQMygDegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dgolang&docid=k5kORhOaFqiZ7M&w=920&h=460&q=goland%20png&ved=2ahUKEwjzrdC82JuBAxXrGFkFHcvSBpkQMygDegQIARBT' width='50'> 
+<img src='https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png' width='50'> 
 <br>
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5c8a1e7a-7ac6-475f-9006-70954deb4ba1' width='50'>
