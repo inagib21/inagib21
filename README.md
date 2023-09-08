@@ -12,7 +12,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/bd66bd18-d928-441b-9433-5d9b03dbc3f7' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/bd66bd18-d928-441b-9433-5d9b03dbc3f7' width='50'> <br>
 
 
 
@@ -26,7 +26,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f9490169-1f79-4c02-9142-b330b3f3f9bd' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/48c8767f-67ad-43f8-b9cb-f91e19e6c3d9' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/96c798b6-e8ca-48a7-904c-00e14a4a4e32' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'><br>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/bcb6abc7-64bf-4dda-84e9-c4234a652cfc' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1a577967-ced1-462a-867c-e5e731bff96d' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5c3e6938-2480-4f76-a377-ac43d7ec821b' width='50'>
