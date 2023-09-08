@@ -12,30 +12,32 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/bd66bd18-d928-441b-9433-5d9b03dbc3f7' width='50'> <br>
-
-
+<img src='https://github.com/inagib21/inagib21/assets/45716414/bd66bd18-d928-441b-9433-5d9b03dbc3f7' width='50'> 
+<br>
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5c8a1e7a-7ac6-475f-9006-70954deb4ba1' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5187bc1b-20e6-479e-b0cc-ece6c831f5f6' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/02ade7b7-391b-4173-ad8d-3f70eadee477' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/982040a5-15b2-49c6-a1f6-ec547a4d1f62' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/7d68eb56-697e-481b-85e7-98af193f293a' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/d9db7d0d-6220-49de-be8c-02095dad9a38' width='50'><br>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/d9db7d0d-6220-49de-be8c-02095dad9a38' width='50'>
+<br>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f2cf2479-a68f-439e-bb0d-d4a41a36670a' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/f9490169-1f79-4c02-9142-b330b3f3f9bd' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/48c8767f-67ad-43f8-b9cb-f91e19e6c3d9' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/96c798b6-e8ca-48a7-904c-00e14a4a4e32' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'><br>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/764a6e10-64d1-41fa-a748-d039ef920f01' width='50'>
+<img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'>
+
+<br>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/bcb6abc7-64bf-4dda-84e9-c4234a652cfc' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1a577967-ced1-462a-867c-e5e731bff96d' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5c3e6938-2480-4f76-a377-ac43d7ec821b' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/c74e6bcf-ee54-4143-ae93-bbe7d34c8487' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/bb1a6abc-5e75-41c2-b9e8-8dd9aa31bc85' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/08fe7561-d710-4ba9-a140-fd8445131fdf' width='50'>
-
 <img src='https://github.com/inagib21/inagib21/assets/45716414/37289a28-3791-4b57-be58-64f332a143f7' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/764a6e10-64d1-41fa-a748-d039ef920f01' width='50'>
+
 
 ## Contact Me
 
