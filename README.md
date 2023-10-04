@@ -30,7 +30,9 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 ## 👀 Interested In
 
 
-<img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> <img  align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> <img  align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+
+          
           
 
 
