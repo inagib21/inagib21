@@ -25,7 +25,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 
 
 
-<div align="left" style="padding-right:10px>
+<div align="left" style="padding-right:10px">
 ## 👀 Interested In
 </div>
 
