@@ -9,34 +9,37 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 - 🚀 **Problem Solver:** I enjoy finding innovative solutions to challenges and thrive on continuously learning and growing.
 
 ## I Work With
-<img src='https://github.com/inagib21/inagib21/assets/45716414/f4ea6d81-ccbe-41fa-b56f-b3aadc56d61f' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/1b00f505-bda6-4104-bb95-d23baafeffbe' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/9b3cb3a3-6d0f-4a8b-91a5-164fc8890c8f' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/9e69a1c3-e27a-4197-8218-7b063f19b0c2' width='50'> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width='50'> 
 
 <br>
 				
 
 
-<img src='https://github.com/inagib21/inagib21/assets/45716414/9ae07539-cc7c-466c-a2d8-ff0476d43700' width='50'>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width='50'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50">
           
-<img src='https://github.com/inagib21/inagib21/assets/45716414/5e8b0e66-eb50-4c82-b2ec-b06cd1fd55bf' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/982040a5-15b2-49c6-a1f6-ec547a4d1f62' width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='50'>
 
 
 <br>
 
-<img src='https://github.com/inagib21/inagib21/assets/45716414/f9490169-1f79-4c02-9142-b330b3f3f9bd' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/48c8767f-67ad-43f8-b9cb-f91e19e6c3d9' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/b3969378-24af-45ac-a7c9-3db1c6abb2c9' width='50'>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width='50'>
 
-<img src='https://github.com/inagib21/inagib21/assets/45716414/764a6e10-64d1-41fa-a748-d039ef920f01' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/7f4a4e3c-9116-4037-aa9d-75c5a23e0291' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/96c798b6-e8ca-48a7-904c-00e14a4a4e32' width='50'>
-<img src='https://github.com/inagib21/inagib21/assets/45716414/bcb6abc7-64bf-4dda-84e9-c4234a652cfc' width='50'>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width='50'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/1a577967-ced1-462a-867c-e5e731bff96d' width='50'>
 
 
