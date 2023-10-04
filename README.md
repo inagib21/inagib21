@@ -20,7 +20,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 
 <img src='https://github.com/inagib21/inagib21/assets/45716414/9ae07539-cc7c-466c-a2d8-ff0476d43700' width='50'>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50"/>
           
 <img src='https://github.com/inagib21/inagib21/assets/45716414/5e8b0e66-eb50-4c82-b2ec-b06cd1fd55bf' width='50'>
 <img src='https://github.com/inagib21/inagib21/assets/45716414/982040a5-15b2-49c6-a1f6-ec547a4d1f62' width='50'>
