@@ -16,7 +16,7 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> 				
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
-<img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">         
+<img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://icons8.com/icon/ewGOClUtmFX4/flask">         
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
