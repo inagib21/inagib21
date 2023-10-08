@@ -32,6 +32,8 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 
 
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" /> <img  align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+<img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+          
 
           
           
