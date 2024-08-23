@@ -19,6 +19,9 @@ I'm a data scientist with a passion for leveraging data to drive insights and in
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://github.com/inagib21/inagib21/assets/45716414/21d35173-4864-4a7d-aed3-49c3d72f97c0">         
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://github.com/inagib21/inagib21/assets/45716414/564f107c-3757-4b19-9e18-5a71a80747b4">
+
+ <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+          
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 
 
