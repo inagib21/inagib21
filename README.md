@@ -10,6 +10,7 @@
    </a>
 </p>   
 <br>
+
 ## Contact Me
 
  via email: inagib21@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nagibgonzalez/). 
