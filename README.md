@@ -4,10 +4,12 @@
 
 
 ## I Use
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,cpp,nextjs,nodejs,fastapi,react,svelte,htmx,mysql,mongodb,postgresql,redis,aws,gcp,azure,docker,anaconda,sklearn,pytorch,tensorflow,bash,git,&perline=13)](https://skillicons.dev)
-    
+<p align="center">
+  <a href="https://skillicons.dev">
+[![My Skills](https://skillicons.dev/icons?py,javascript,typescript,go,rust,cpp,r,nextjs,nodejs,fastapi,react,svelte,htmx,mysql,mongodb,postgresql,redis,aws,gcp,azure,postman,docker,anaconda,sklearn,pytorch,tensorflow,bash,git,&perline=14)](https://skillicons.dev)
+   </a>
+</p>   
 <br>
-
 ## Contact Me
 
  via email: inagib21@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nagibgonzalez/). 
