@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c69e716d-dbd6-4bde-9737-032772d53a7b)
+![image](https://github.com/user-attachments/assets/d1ea4d19-8da0-434d-a4be-8a13a9d88d33)
+
 
 
 I'm a data scientist with a passion for leveraging data to drive insights and informed decision-making. With experience in various domains, including real estate, marketing, and social media sentiment analysis, I've had the opportunity to work on diverse projects that showcase my skills.
