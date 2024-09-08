@@ -1,14 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d1ea4d19-8da0-434d-a4be-8a13a9d88d33)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand&pause=1000&color=36F2F7&center=true&vCenter=true&width=435&lines=I'm+a+software+engineer;I'm+a+data+scientist;I'm+a+problem+solver)](https://git.io/typing-svg)
 
-
-I'm a data scientist with a passion for leveraging data to drive insights and informed decision-making. With experience in various domains, including real estate, marketing, and social media sentiment analysis, I've had the opportunity to work on diverse projects that showcase my skills.
-
-## About Me
-
-- 📊 **Data Scientist:** I have a strong background in statistics and machine learning, allowing me to tackle complex problems and provide valuable insights.
-- 🌐 **Full Stack Enthusiast:** I've also ventured into the world of full-stack development, expanding my skill set to create end-to-end solutions.
-- 🚀 **Problem Solver:** I enjoy finding innovative solutions to challenges and thrive on continuously learning and growing.
 
 ## I Work With
 
