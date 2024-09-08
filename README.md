@@ -5,11 +5,7 @@
 
 ## I Use
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,cpp,nextjs,nodejs,fastapi,react,svelte,htmx,mysql,mongodb,postgresql,redis,aws,gcp,azure,docker,anaconda,sklearn,pytorch,tensorflow,bash,git,&perline=13)](https://skillicons.dev)
-
-
-
-
-      
+    
 <br>
 
 ## Contact Me
