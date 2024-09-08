@@ -4,7 +4,7 @@
 
 
 ## I Work With
-
+<div style="display: flex; flex-wrap: wrap;">
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -23,7 +23,7 @@
 <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width='50'>  <img align="left" width='50px' alt="java" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" width='50px' alt="java" style="padding-right:10px" src="https://github.com/inagib21/inagib21/assets/45716414/e4ccd2cb-f0ba-442a-a80a-61d16fd470fb" />   
 
-
+</div>
 <br>
 
 ## 👀 Interested In
