@@ -6,7 +6,7 @@
 ## I Use
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,javascript,typescript,go,rust,cpp,r,nextjs,nodejs,fastapi,react,svelte,htmx,mysql,mongodb,postgresql,redis,aws,gcp,azure,postman,docker,anaconda,sklearn,pytorch,tensorflow,bash,git,&perline=14)](https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=py,javascript,typescript,go,rust,cpp,r,nextjs,nodejs,fastapi,react,svelte,htmx,mysql,mongodb,postgresql,redis,aws,gcp,azure,postman,docker,anaconda,sklearn,pytorch,tensorflow,bash,git,&perline=14" />
    </a>
 </p>   
 <br>
