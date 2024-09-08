@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kumar+One+Outline&size=30&pause=1000&center=true&vCenter=true&width=435&height=75&lines=Nagib+Gonzalez)](https://git.io/typing-svg)
+![image](https://github.com/user-attachments/assets/c69e716d-dbd6-4bde-9737-032772d53a7b)
+
 
 I'm a data scientist with a passion for leveraging data to drive insights and informed decision-making. With experience in various domains, including real estate, marketing, and social media sentiment analysis, I've had the opportunity to work on diverse projects that showcase my skills.
 
